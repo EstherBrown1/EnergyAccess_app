@@ -3,7 +3,7 @@
 ### App Name: ElecAfrica ###
 
 #### App Set - Up: #####
-This app was originally implemented in and iOS environment.
+This app is currently implemented in an iOS environment.
 In the app, the user session begins when he or she registers as a new new user in the ElecAfrica app.
 After registration, the user is then added to the database of users in the backend. Alternatively, the user can just log in with his or her username or password, if already registered.
 Once they are in the app, users can swipe left to get to the "News on electricity access by country" page.
