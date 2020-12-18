@@ -1,38 +1,6 @@
 # EnergyAccess_app
-Introduction / Topic Selection
-During the process of selecting topics for this project, I spent some time exploring African-specific datasets related to social and political movements around quality healthcare and electricity access. I decided to focus on African voices on electricity access because of the heightened availability of datasets in comparison to health access on the continent.
-Background & Introduction
-In the area of access to electricity, I came across this video: 
 
-In the video, Akon, a Senegalese-American singer, talks about his experience in leveraging his music platform to work on the Akon Lighting Africa project. The goal of the project is to provide electricity to 15 countries on the continent.
-
-Problem Specification Within the Status-Quo
-When tracking the progress and problems of energy access on the continent, it is vital to have access to:
-
-Local African voices
-Voices of Africans in the diaspora
-Global/international representatives and voices on the issue
-A part of the current problem of energy access on the continent is that these different groups of voices are separated or isolated in silos. 
-
-Most of the voices on the issue want to make progress in this area continuously. However, currently, there is no platform --that we are aware of-- that allows us to have access to all different stakeholders to:
-
-Understand the issue as it affects locals/people on the ground.
-Gather the resources to make an actionable effort.
-Communicate with and inform international representatives of the issues that are important to the people most affected.
-Therefore, this project aims to explore the best way to integrate all the different voices and stakeholders on a digital platform.
-
-Approach
-To integrate all the different voices advocating for the increase of access energy on the continent, I implemented a mobile application with the goal to :
-
-Inform advocates of the events around around energy access on the continent
-Encourage more dialogue and communication between different voices
- Keep representatives and leaders accountable for continuous  progress
-App Demo
-General App Flow--Displayed on iPhone 11
-
-
-
-App Name: ElecAfrica
+###App Name: ElecAfrica
 App Set - Up:
 This app was originally implemented in and iOS environment.
 In the app, the user session begins when he or she registers as a new new user in the ElecAfrica app.
