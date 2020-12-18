@@ -14,7 +14,7 @@ Additionally, users can also click on the "CONNECT WITH AFRICAN VOICES BUTTON" o
 Connect with Others Interested in the Issue:
 On the connect page, when two users choose to connect, they can choose to use an-in app iMessage system to chat if both users are using iOS devices.
 
-##### Discussion ######
+##### Discussion #####
 Overall, this app could be useful to organizations or individuals interested in energy access across Africa or in specific countries. 
 Also, since this is more of a social app, based on social-network principles, the app would become more useful over time as more people join and upload news updates to the database. Over time, this would allow for an increase in the frequency of news updates in the app. 
 
