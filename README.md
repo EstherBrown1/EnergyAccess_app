@@ -1,6 +1,6 @@
 # EnergyAccess_app
 
-###App Name: ElecAfrica
+### App Name: ElecAfrica ###
 App Set - Up:
 This app was originally implemented in and iOS environment.
 In the app, the user session begins when he or she registers as a new new user in the ElecAfrica app.
